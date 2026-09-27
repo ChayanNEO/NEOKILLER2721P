@@ -13,6 +13,6 @@ I'm a BCA (Bachelor of Computer Applications) student at Meghnad Saha Institute 
 
 **Featured projects**
 - 🌾 [KisanBharosa](https://github.com/YOUR-NEW-USERNAME/KisanBharosa) — Agricultural supply chain platform (Java)
-- 🖼️ [EpicFrame](https://github.com/YOUR-NEW-USERNAME/EpicFrame) — (add a one-line description)
+- 🖼️ [EpicFrame](https://github.com/YOUR-NEW-USERNAME/EpicFrame) — Event Management System (React + Vite)
 - ⛅ [Weather-Report](https://github.com/YOUR-NEW-USERNAME/Weather-Report) — Weather forecast app
 - 💼 [chayan-portfolio](https://github.com/YOUR-NEW-USERNAME/chayan-portfolio) — My personal portfolio site (React + Vite)
